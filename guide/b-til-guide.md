@@ -28,7 +28,7 @@ $ git clone https://github.com/bside-dev-club/B-TIL.git
 
 ### 3. 프로젝트 셋팅 완료
 
-<img src="https://user-images.githubusercontent.com/69684005/232306403-00f30685-5624-426a-a12d-607607b8830c.png" />
+<img src="https://user-images.githubusercontent.com/26621325/232969988-63bcd612-635e-4535-8703-b600faec496d.png" />
 
 <br>
 
@@ -45,8 +45,7 @@ $ git clone https://github.com/bside-dev-club/B-TIL.git
 - 내용 : 자유롭게 작성 (기본 작성 템플릿 제공)<br>
   [👉 TIL 작성 템플릿 보기](./til-template.md)
 
-<img src="https://user-images.githubusercontent.com/69684005/232313011-1cb58534-83a8-4246-a9fd-0519eb863334.png" width="700"/>
-
+<img src="https://user-images.githubusercontent.com/26621325/232970102-ff63be82-aba5-4f64-aa9b-2fc8ac4881c7.png" width="700"/>
 
 ### 3. 작성한 TIL을 개인 브랜치에 commit 해주세요. <br>
 > ✅ 커밋 전, 개인 브랜치를 main 브랜치의 최신 상태로 맞춘 후 커밋 해주세요.
