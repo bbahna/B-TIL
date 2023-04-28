@@ -28,7 +28,7 @@ $ git clone https://github.com/bside-dev-club/B-TIL.git
 
 ### 3. 프로젝트 셋팅 완료
 
-<img src="https://user-images.githubusercontent.com/26621325/232969988-63bcd612-635e-4535-8703-b600faec496d.png" />
+<img width="282" alt="image" src="https://user-images.githubusercontent.com/26621325/235136058-8ada7d60-0c32-4f86-8a6e-b8c3b348f504.png">
 
 <br>
 
@@ -36,8 +36,8 @@ $ git clone https://github.com/bside-dev-club/B-TIL.git
 
 ### 1. 개인 브랜치를 생성해주세요.
 - `main` 하위 브랜치 생성
-- 브랜치 명칭 규칙 : `프로그램영문명/기수th/이름영문명`
-  - 예) `bside/15th/parkseojoon`
+- 브랜치 명칭 규칙 : `비틸기수th/이름영문명`
+  - 예) `1th/parkseojoon`
 
 ### 2. 주차 별 폴더에 TIL 내용을 아래 형식에 맞춰 작성해주세요.
 - MD파일의 형식으로 작성
@@ -45,14 +45,19 @@ $ git clone https://github.com/bside-dev-club/B-TIL.git
 - 내용 : 자유롭게 작성 (기본 작성 템플릿 제공)<br>
   [👉 TIL 작성 템플릿 보기](./til-template.md)
 
-<img src="https://user-images.githubusercontent.com/26621325/232970102-ff63be82-aba5-4f64-aa9b-2fc8ac4881c7.png" width="700"/>
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/26621325/235136840-0fb7287f-0912-4a96-bc06-43324d8ec1b4.png">
+
 
 ### 3. 작성한 TIL을 개인 브랜치에 commit 해주세요. <br>
 > ✅ 커밋 전, 개인 브랜치를 main 브랜치의 최신 상태로 맞춘 후 커밋 해주세요.
-- commit 메세지 규칙 : 프로그램명 n주차 이름<br>
-  - 예) 비사이드 1주차 박서준
+- commit 메세지 규칙 : [비틸 기수] n주차 이름 - 넘버<br>
+  - 예)
+  - [1기] 1주차 박서준 - 1,
+  - [1기] 1주차 박서준 - 2,
+  - [1기] 2주차 박서준 - 1, ..
 
-<img src="https://user-images.githubusercontent.com/69684005/232313184-286b9b63-d44e-4873-acef-541c45e5a05b.png" />
+<img width="252" alt="image" src="https://user-images.githubusercontent.com/26621325/235139394-4b20502b-3d05-4c16-a2da-bb1ec233881c.png">
+
 
 ### 4. 매 주, 작성한 커밋을 모아서 PR(Pull Request) 해주세요.
 > **📆 TIL 작성 & 반영 주기**<br>
@@ -60,13 +65,12 @@ $ git clone https://github.com/bside-dev-club/B-TIL.git
 > 일 : 운영자가 PR 을 확인하고 Merge 해요. (오후 6시 이후)
 
 - B-TIL Github 페이지에서 개인 브랜치를 main 브랜치로 PR 요청
-- 라벨 설정 : `프로그램명-기수`
-  - ex) `bside-15`
-- PR 제목 규칙 : 프로그램명 TIL n주차 이름
-  - commit 메시지와 동일
+- 라벨 설정(총 2개) : `비틸-기수`, `참가중인프로그램명-기수`
+  - ex) `btil-1`, `bside-15`
+- PR 제목 규칙 : [비틸기수] n주차 이름
 
-<img src="https://user-images.githubusercontent.com/69684005/232313265-0ef0c70a-002c-4ff8-bcb0-c2f12c131931.png" width="700"/> <br>
-<img src="https://user-images.githubusercontent.com/69684005/232313465-2db71465-1961-48c6-9f7d-9865d9c5ef28.png" />
+<img width="1355" alt="image" src="https://user-images.githubusercontent.com/26621325/235141385-58949a13-cf7e-4ecd-9822-d9103486b5d4.png">
+<img width="401" alt="image" src="https://user-images.githubusercontent.com/26621325/235141433-a8116563-6c6b-4cfc-8f24-98741c45ae5e.png">
 
 <br>
 
@@ -91,6 +95,6 @@ $ git clone https://github.com/bside-dev-club/B-TIL.git
 
 <br>
 
-궁금하신 점은 비사이드 슬랙 채널 `B-TIL` 에 남겨 주세요. 🙌🏻
+궁금하신 점은 비사이드 슬랙 채널 `4_스터디_비틸` 에 남겨 주세요. 🙌🏻
 
 <br>
